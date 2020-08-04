@@ -39,7 +39,7 @@ enum ArithmeticExpression {
 indirect enum ArithmeticExpression2 {
     case number(Int)
     case addition(ArithmeticExpression2, ArithmeticExpression2)
-    case multiplication(ArithmeticExpression2, ArithmeticExpression2)[
+    case multiplication(ArithmeticExpression2, ArithmeticExpression2)
 }
 
 let five = ArithmeticExpression2.number(5)
