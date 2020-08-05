@@ -14,5 +14,10 @@
         <page name='chapter6'/>
         <page name='chapter6_1'/>
         <page name='chapter7'/>
+        <page name='chapter8'/>
+        <page name='chapter8_1'/>
+        <page name='chapter9'/>
+        <page name='chapter9_1'/>
+        <page name='chapter9_2'/>
     </pages>
 </playground>
