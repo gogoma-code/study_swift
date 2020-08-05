@@ -43,11 +43,12 @@ unsignedInteger = UInt8.max
 let overflowedValue: UInt8 = unsignedInteger &+ 1 //0
 
 //nil 병합 연산자
-var valueInt: Int = nil != nil ? 1 : 0
+var valueInt: Int? = nil != nil ? 1 : 0
 valueInt = valueInt ?? 0
 
 var valueInt2: Int = 1
 valueInt2 = -valueInt2
 valueInt2 = -valueInt2
+
 
 
