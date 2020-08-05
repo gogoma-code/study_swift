@@ -9,5 +9,7 @@
         <page name='chapter2_1'/>
         <page name='chapter4_1'/>
         <page name='chapter4'/>
+        <page name='chapter5'/>
+        <page name='chapter5_1'/>
     </pages>
 </playground>
