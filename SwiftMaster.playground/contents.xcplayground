@@ -27,5 +27,8 @@
         <page name='chapter11'/>
         <page name='chapter11_1'/>
         <page name='chapter12'/>
+        <page name='chapter13'/>
+        <page name='chapter13_1'/>
+        <page name='chapter13_2'/>
     </pages>
 </playground>
