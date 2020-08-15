@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 protocol Container {
     associatedtype ItemType

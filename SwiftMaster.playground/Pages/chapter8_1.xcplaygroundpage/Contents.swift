@@ -1,5 +1,5 @@
 
-import SwiftUI
+import Foundation
 
 var myName: String? = "yongki"
 var yongki: String = myName!

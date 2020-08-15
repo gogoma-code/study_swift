@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 var customersInLine: [String] = ["111", "222", "333", "444"]
 print(customersInLine.count)

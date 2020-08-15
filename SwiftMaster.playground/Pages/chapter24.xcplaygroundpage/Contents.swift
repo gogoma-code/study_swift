@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 class Person {
     enum Job {

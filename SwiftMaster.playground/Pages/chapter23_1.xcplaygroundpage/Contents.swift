@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 let items: Array<Int> = [1, 2, 3, 4, 5, 6]
 

@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 extension String {
     init(intTypeNumber: Int) {

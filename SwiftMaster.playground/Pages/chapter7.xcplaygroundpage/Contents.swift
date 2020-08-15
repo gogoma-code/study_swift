@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 //func 함수이름 (매개변수...) -> 반환 타입 {
 //    실행 구문

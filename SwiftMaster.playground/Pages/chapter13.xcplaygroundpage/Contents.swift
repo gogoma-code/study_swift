@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 func backwards(first: String, second: String) -> Bool {
     print("\(first), \(second) 비교중")

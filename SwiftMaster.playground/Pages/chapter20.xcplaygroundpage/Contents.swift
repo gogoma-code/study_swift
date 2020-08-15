@@ -1,4 +1,4 @@
-import SwiftUI
+//import Foundation
 
 protocol SomeProtocol {
     var settableProperty: String { get set }

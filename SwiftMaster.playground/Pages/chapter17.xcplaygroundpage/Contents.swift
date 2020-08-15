@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 struct Student {
     var name: String

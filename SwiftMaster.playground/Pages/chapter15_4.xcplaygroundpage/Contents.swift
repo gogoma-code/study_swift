@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 enum Gender {
     case male, female, unknown

@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 class Account {
     var credit: Int = 0 {

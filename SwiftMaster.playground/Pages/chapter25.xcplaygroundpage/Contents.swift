@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 let string: String = "ABC"
 switch string {

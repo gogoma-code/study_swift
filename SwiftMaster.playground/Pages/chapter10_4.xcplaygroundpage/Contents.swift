@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 struct LevelStruct {
     var level: Int = 0

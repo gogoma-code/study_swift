@@ -2,7 +2,7 @@
  - 20.3.3 가변 메서드 요구
  - 20.3.4 이니셜라이저 요구
  */
-import SwiftUI
+import Foundation
 
 /* 20.3.3 가변 메서드 요구 */
 protocol Resettable {

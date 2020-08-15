@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 protocol Receiveable {
     func received(data: Any, from: Sendable)

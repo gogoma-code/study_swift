@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 typealias MyInt = Int
 typealias YourInt = Int

@@ -1,4 +1,4 @@
-import Swift
+import Foundation
 
 struct BasicInformation {
     let name: String

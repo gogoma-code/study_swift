@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 enum PastaTaste: CaseIterable {
     case cream, tomato

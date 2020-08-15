@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 var val: Double = 3.3
 var convertedVal: Int = Int(val)

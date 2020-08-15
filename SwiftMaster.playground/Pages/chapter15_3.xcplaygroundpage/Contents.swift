@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 let numbers: [Int] = [1, 2, 3]
 

@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 let name: String = "yongki"
 var introduce: String = String()

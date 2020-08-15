@@ -1,5 +1,4 @@
-
-import SwiftUI
+import Foundation
 
 class Room {
     var number: Int

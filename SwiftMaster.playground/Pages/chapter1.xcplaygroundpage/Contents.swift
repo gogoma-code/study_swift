@@ -1,4 +1,4 @@
-import Swift
+import Foundation
 
 var str = "Hello, playground"
 

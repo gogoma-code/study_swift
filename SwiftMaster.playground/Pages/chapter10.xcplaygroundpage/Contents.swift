@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 struct CordinatePoint {
     var x: Int // 저장 프로퍼티

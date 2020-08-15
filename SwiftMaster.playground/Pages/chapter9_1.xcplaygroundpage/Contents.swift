@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 class Person {
     var height: Float = 0.0

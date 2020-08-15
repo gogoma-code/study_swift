@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 /*
 for 임시 상수 in 시퀀스 아이템 {

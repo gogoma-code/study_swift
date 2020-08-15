@@ -1,4 +1,4 @@
-import Swift
+import Foundation
 
 var name: String = "yongki"
 var age: Int = 100

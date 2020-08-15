@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 let first: Int = 5
 let second: Int = 7

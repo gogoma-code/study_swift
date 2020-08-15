@@ -1,5 +1,5 @@
 
-import SwiftUI
+import Foundation
 
 class AClass {
     static var typeProperty: Int = 0

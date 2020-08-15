@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 enum Student {
     case elementary, middle, high

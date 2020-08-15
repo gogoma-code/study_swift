@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 let number: Double = 5.0
 var result: Double = number.truncatingRemainder(dividingBy: 1.5)

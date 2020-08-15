@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 var integer: Int = -100
 let unsignedInteger: UInt = 50

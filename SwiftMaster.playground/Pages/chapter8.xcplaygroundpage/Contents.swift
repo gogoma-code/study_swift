@@ -1,4 +1,4 @@
-import SwiftUI
+import Foundation
 
 var myName: String = "yongki"
 //myName = nil //error
